@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Fahad Khan>`
+- **CCID:** `<fmk1`
 
 ## References and Resources
 
